@@ -1,0 +1,192 @@
+﻿.hello{
+  background: #fafafa;
+}
+.top1{
+  width: 7.5rem;
+  margin: 0 auto;
+  height: 0.95rem;
+  background: #ff9900;
+  text-align: center;
+  overflow: hidden;
+}
+.top1 span{
+  float: left;
+  font-size: 0.4rem;
+  line-height: 0.95rem;
+  color: white;
+  margin-left: 0.4rem;
+}
+.top1 p{
+  float: left;
+  font-size: 0.4rem;
+  line-height: 0.95rem;
+  color: white;
+  margin-left: 2.52rem;
+}
+.main{
+  width: 2.28rem;
+  margin: 3.34rem auto 0;
+  text-align: center;
+}
+.main img{
+  width: 0.82rem;
+  height:0.88rem;
+}
+.main p{
+  font-size: 0.3rem;
+  width: 100%;
+  text-align: center;
+  color: #494949;
+  padding-top: 0.4rem;
+  line-height: 0.45rem;
+}
+.main-1{
+  padding-top: 0.1rem;
+  padding-bottom: 2.3rem;
+}
+.main-1 .one{
+  overflow: hidden;
+  padding-top: 0.23rem;
+}
+.main-1 .one .p1,.p2{
+  float: left;
+}
+.main-1 .one .p1{
+  margin-left: 0.38rem;
+}
+.main-1 .one .p2{
+  font-size: 0.26rem;
+  margin-left: 0.26rem;
+  line-height: 0.36rem;
+  color: #a8a8a8;
+}
+.main-1 .two{
+  overflow: hidden;
+  margin-top: 0.5rem;
+}
+.main-1 .two .p1,.p2,.p3,.p4{
+  float: left;
+}
+.main-1 .two .p1{
+  font-size: 0.4rem;
+  color: #cdcdcd;
+  margin: 0.56rem 0 0 0.38rem;
+}
+.main-1 .two .p2{
+  width: 1.58rem;
+  height: 1.58rem;
+  margin-left: 0.2rem;
+}
+.main-1 .two .p3{
+  margin-left: 0.14rem;
+  width: 2.77rem;
+}
+.main-1 .two .p3 .pp1 .s1{
+  font-size: 0.3rem;
+  line-height: 0.45rem;
+}
+.main-1 .two .p3 .pp1 .s2,.s3{
+  font-size: 0.26rem;
+  color: #afafaf;
+}
+.main-1 .two .p3 .pp2{
+  overflow: hidden;
+  margin-top: 0.2rem;
+}
+.main-1 .two .p3 .pp2 .s4,.s5,.s6{
+  float: left;
+  display: block;
+  width: 0.74rem;
+  height: 0.41rem;
+  border-top: 0.03rem solid #cccccc;
+  border-bottom: 0.03rem solid #cccccc;
+  border-right: 0.03rem solid #cccccc;
+  text-align: center;
+  line-height: 0.41rem;
+  font-size: 0.25rem;
+  border-radius: 0.05rem;
+}
+.main-1 .two .p4{
+  font-size: 0.26rem;
+  margin-top: 0.64rem;
+  margin-left: 0.51rem;
+}
+.main-1 .two .p5{
+  background: #ff9900;
+  color: white;
+  width: 0.98rem;
+  height: 1.58rem;
+  float: right;
+  line-height: 1.58rem;
+  text-align: center;
+  font-size: 0.3rem;
+}
+.down{
+  position: fixed;
+  bottom: 1.1rem;
+  width: 100%;
+  height: 1.12rem;
+  background: white;
+  border-top: 0.03rem solid #eeeeee;
+  overflow: hidden;
+}
+.down div{
+  float: left;
+}
+.down div:nth-child(1){
+  margin-left: 0.4rem;
+}
+.down div:nth-child(1) p:nth-child(1){
+  margin-top: 0.18rem;
+  font-size: 0.5rem;
+  color: #dadada;
+}
+.down div:nth-child(1) p:nth-child(2){
+  margin-top: 0;
+  font-size: 0.26rem;
+  color: #cdcdcd;
+}
+.down div:nth-child(2){
+  margin-left: 0.42rem;
+}
+.down div:nth-child(2) p:nth-child(1){
+  margin-top: 0.18rem;
+  font-size: 0.5rem;
+  color: #dadada;
+}
+.down div:nth-child(2) p:nth-child(2){
+  margin-top: 0;
+  font-size: 0.26rem;
+  color: #cdcdcd;
+}
+.down div:nth-child(4){
+  width: 1.7rem;
+  margin-left: 0.4rem;
+  height: 100%;
+  background: #ff5500;
+  font-size: 0.36rem;
+  color: white;
+  text-align: center;
+  line-height: 1.12rem;
+}
+.down div:nth-child(3){
+margin-left: 0.3rem;
+  padding-top: 0.3rem;
+}
+.down div:nth-child(3) p{
+  font-size: 0.22rem;
+  width: 1.6rem;
+  line-height: 0.3rem;
+  text-align: center;
+  color: #999999;
+}
+.down .ooo{
+  float: right;
+  width: 1.7rem;
+  height: 100%;
+  text-align: center;
+  line-height: 1.12rem;
+  background: #ff5500;
+  font-size: 0.36rem;
+  color: white;
+}

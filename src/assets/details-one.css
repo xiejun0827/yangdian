@@ -1,0 +1,114 @@
+.hello{
+  position: relative;
+}
+.up{
+  width: 100%;
+  position: absolute;
+  top:0.1rem;
+  z-index: 999;
+}
+.up span{
+  display: block;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: #b2b2b2;
+  color: white;
+  font-size: 0.3rem;
+  line-height: 0.55rem;
+  text-align: center;
+}
+.up .span1{
+  float: left;
+  margin-left: 0.23rem;
+}
+.up .span2{
+  float: right;
+  margin-right: 0.28rem;
+  line-height: 0.4rem;
+}
+.up .span3{
+  float: right;
+  margin-right: 0.4rem;
+}
+.banner{
+  width: 7.5rem;
+  margin: 0 auto;
+  border-top: 0.02rem solid #dddddd;
+  padding-top: 0.1rem;
+}
+.banner-one{
+  overflow: hidden;
+  height: 0.7rem;
+}
+.banner-one p{
+  float: left;
+  font-size: 0.28rem;
+}
+.banner-one div{
+  float: right;
+  border-left: 1px solid #dddddd;
+  padding-left: 0.31rem;
+  margin-right: 0.31rem;
+}
+.banner-one span{
+  display: block;
+  margin-top: 0.13rem;
+  font-size: 0.16rem;
+  color: #ed706e;
+}
+.banner-two{
+  overflow: hidden;
+  margin-top: 0.13rem;
+}
+.banner-two p{
+  float: left;
+  font-size: 0.25rem;
+  color: #eb2222;
+}
+.banner-two span{
+  float: left;
+  display: block;
+  width: 0.7rem;
+  height: 0.3rem;
+  background: #ff9900;
+  margin-left: 0.2rem;
+  text-align: center;
+  color: white;
+  font-size: 0.19rem;
+  line-height: 0.3rem;
+}
+.banner-three{
+  overflow: hidden;
+  margin-top: 0.1rem;
+}
+.banner-three p{
+  float: left;
+  font-size: 0.18rem;
+  color: #9e9e9e;
+  text-decoration: line-through;
+}
+.banner-three div{
+  float: left;
+  margin-left: 0.35rem;
+}
+.banner-three span{
+  display: block;
+  width: 0.99rem;
+  height: 0.24rem;
+  border: 0.03rem solid #ff9900;
+  text-align: center;
+  font-size: 0.19rem;
+  background: white;
+  color: #ff9900;
+  line-height: 0.24rem;
+  margin-left: 0.2rem;
+  float: left;
+}
+.down{
+  width: 7.5rem;
+  margin: 0.2rem auto 0;
+  height: 0.34rem;
+  background: #eeeeee;
+}
+

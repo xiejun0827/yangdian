@@ -1,0 +1,146 @@
+.hello{
+  padding-bottom: 0.5rem;
+}
+.bottom{
+  position: fixed;
+  /*margin-bottom: 0.98rem;*/
+  width: 100%;
+  bottom:0;
+  height: 0.98rem;
+  background: white;
+  border-top: 1px solid #dddddd;
+}
+.bottom .div1{
+
+}
+.bottom .div1 p{
+  font-size: 0.26rem;
+  float: left;
+  color: #666666;
+  line-height: 0.98rem;
+  padding-left: 0.3rem;
+}
+.bottom .div1 span{
+  float: left;
+  font-size: 0.26rem;
+  color: #ec3a3a;
+  line-height: 0.98rem;
+}
+.bottom .div2,.div3{
+  width: 1.98rem;
+  height: 100%;
+  font-size: 0.26rem;
+  color: white;
+  text-align: center;
+  line-height: 0.98rem;
+}
+.bottom .div2{
+    background: #eb2222;
+  }
+.bottom .div3{
+  background: #ff9900;
+}
+.big{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background: rgba(0,0,0,0.5);
+  z-index: 999;
+  bottom: 0.98rem;
+}
+.big-1{
+  height: 5.75rem;
+  width: 100%;
+  background: white;
+  position: absolute;
+  bottom: 0;
+}
+.big-1 .big-div1{
+  height: 2.13rem;
+}
+.big-1 .big-div1 img{
+  width: 2.02rem;
+  height: 2.02rem;
+  border: 0.07rem solid #dddddd;
+  float: left;
+  margin-left: 0.42rem;
+  margin-top: -0.27rem;
+}
+.big-1 .big-div1 div{
+  float: left;
+  padding-top: 0.66rem;
+  padding-left: 0.23rem;
+}
+.big-1 .big-div1 div p{
+  font-size: 0.24rem;
+  line-height: 0.34rem;
+}
+.big-1 .big-div1 div .p1{
+  color: #eb2222;
+}
+.big-1 .big-div1 span{
+  float: right;
+  display: block;
+  width: 0.56rem;
+  height: 0.56rem;
+  margin: 0.29rem 0.29rem 0 0;
+  font-size: 0.38rem;
+  border-radius: 50%;
+  border: 1px solid #9f9f9f;
+  line-height: 0.56rem;
+  text-align: center;
+}
+.big-1 .big-div2{
+  overflow: hidden;
+  padding: 0 0.43rem;
+}
+.big-1 .big-div2 p{
+  float: left;
+  font-size: 0.28rem;
+}
+.big-1 .big-div2 div{
+  float: right;
+}
+.big-1 .big-div2 div span{
+  display: inline-block;
+  float: left;
+  font-size: 0.4rem;
+}
+.big-1 .big-div2 div .s1,.s3{
+  width: 0.5rem;
+  height: 0.5rem;
+  background: #999999;
+  text-align: center;
+  color: white;
+  line-height: 0.5rem;
+}
+.big-1 .big-div2 div .s2{
+  width: 1rem;
+  height: 0.46rem;
+  border-top: 0.02rem solid #dddddd;
+  border-bottom: 0.02rem solid #dddddd;
+  text-align: center;
+  font-size: 0.22rem;
+  line-height: 0.46rem;
+}
+.big-1 .big-div3{
+  padding: 0 0.43rem;
+}
+.big-1 .big-div3 p{
+  font-size: 0.29rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.2rem;
+}
+.big-1 .big-div3 ul{
+  overflow: hidden;
+ }
+.big-1 .big-div3 ul li{
+  float: left;
+  padding: 0.11rem 0.43rem;
+  background: #dddddd;
+  color: white;
+  border-radius: 0.2rem;
+  margin-left: 0.2rem;
+  font-size: 0.24rem;
+}
+

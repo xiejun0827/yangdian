@@ -1,0 +1,61 @@
+.ul-1{
+  width: 6.9rem;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 0.1rem;
+  overflow: hidden;
+  margin: 0 auto;
+  padding-top: 0.16rem;
+}
+.ul-1 li{
+  float: left;
+  padding: 0.14rem 0.21rem;
+  color: white;
+  background: #999999;
+  text-align: center;
+  font-size: 0.22rem;
+  border-radius: 0.3rem;
+  margin-left: 0.49rem;
+}
+.ul-2{
+  border-bottom: 1px solid #dddddd;
+}
+.ul-2 li{
+  box-sizing: border-box;
+  width: 6.9rem;
+  margin: 0 auto;
+  padding: 0 0.3rem;
+  padding-bottom: 0.19rem;
+}
+.ul-2 li .div{
+  overflow: hidden;
+  padding-top: 0.18rem;
+  height: 0.22rem;
+}
+.ul-2 li .div p{
+  float: left;
+  font-size: 0.21rem;
+  color: #ff9900;
+}
+.ul-2 li .div span{
+  float: right;
+  font-size: 0.14rem;
+  color: #999999;
+}
+.ul-2 li img{
+  width: 1.51rem;
+  height: 1.51rem;
+}
+.ul-2 li .p1{
+  font-size: 0.18rem;
+  color: #999999;
+}
+.ul-2 li .span1{
+  display: block;
+  margin-top: 0.11rem;
+  font-size: 0.18rem;
+  width: 100%;
+  padding: 0.16rem 0.1rem;
+  border-radius: 0.1rem;
+  background: #dddddd;
+  color: #666666;
+}

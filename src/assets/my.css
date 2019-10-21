@@ -1,0 +1,106 @@
+﻿.hello{
+  padding-bottom: 1.1rem;
+}
+.main{
+  height: 3.23rem;
+  width: 7.5rem;
+  margin: 0 auto;
+  background: #ff9900;
+}
+.main div{
+  overflow: hidden;
+}
+.main div img:nth-child(1){
+  float: left;
+  margin-left: 0.3rem;
+  margin-top: 0.26rem;
+}
+.main div p{
+  float: left;
+  margin-left: 2.11rem;
+  margin-top: 0.28rem;
+  font-size: 0.38rem;
+  color: white;
+}
+.main div .img1{
+  float: right;
+  margin-right: 0.48rem;
+  margin-top: 0.26rem;
+}
+.main-1{
+  width: 7.5rem;
+  margin: 0 auto;
+  border-bottom:0.15rem solid #efeeee;
+}
+.main-1 div:nth-child(1){
+  width: 1.81rem;
+  height: 1.81rem;
+  margin: -1.33rem auto 0;
+  background: #e6dfdf;
+  border-radius: 50%;
+  border: 0.1rem solid white;
+}
+.main-1 div:nth-child(2){
+  width: 100%;
+  text-align: center;
+  font-size: 0.3rem;
+  margin-top: 0.23rem;
+}
+.main-1 div:nth-child(3){
+  overflow: hidden;
+  padding-top: 0.57rem;
+  padding-bottom: 0.45rem;
+}
+.main-1 div:nth-child(3) img{
+  float: left;
+  margin-left: 0.35rem;
+}
+.main-1 div:nth-child(3) p{
+  float: left;
+  font-size: 0.3rem;
+  margin-left: 0.25rem;
+}
+.main-2{
+  overflow: hidden;
+  width: 7.5rem;
+  margin: 0 auto;
+  border-bottom: 1px solid #b3b3b3;
+  padding-bottom: 0.47rem;
+}
+.main-2 p:nth-child(1){
+  float: left;
+  margin-left: 0.46rem;
+  margin-top: 0.46rem;
+  font-size: 0.3rem;
+}
+.main-2 p:nth-child(2){
+  float: right;
+  margin-top: 0.46rem;
+  font-size: 0.32rem;
+  color: #999999;
+}
+.main-3{
+  overflow: hidden;
+  border-bottom: 0.15rem solid #efeeee;
+}
+.main-3 li{
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+}
+.main-3 li p{
+  font-size: 0.22rem;
+  padding-top: 0.27rem;
+}
+.main-4{
+  height: 1.3rem;
+  width: 7.5rem;
+}
+.main-4 p{
+  font-size: 0.32rem;
+  margin-left: 0.46rem;
+  color: #999999;
+  line-height: 1.3rem;
+}
